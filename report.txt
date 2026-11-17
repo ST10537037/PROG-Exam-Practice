@@ -1,0 +1,7 @@
+MOVIE TICKET REPORT
+***********************************
+MOVIE NAME: Oppenheimer
+MOVIE TICKET PRICE: R 50.0
+NUMBER OF TICKETS: 12
+TOTAL TICKET PRICE: R 684.0
+***********************************
